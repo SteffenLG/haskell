@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "exercises"
+	},
+	{
+		"path": "assignments"
+	},
+	{
+		"path": "lectures"
+	},
+	{
+		"path": "testing"
+	}
+]
+}
