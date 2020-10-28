@@ -1,16 +1,19 @@
 {
   "folders": [
-	{
-		"path": "exercises"
-	},
-	{
-		"path": "assignments"
-	},
-	{
-		"path": "lectures"
-	},
-	{
-		"path": "testing"
-	}
-]
+    {
+      "path": "exercises"
+    },
+    {
+      "path": "assignments"
+    },
+    {
+      "path": "lectures"
+    },
+    {
+      "path": "testing"
+    },
+    {
+      "path": "projects"
+    }
+  ]
 }
